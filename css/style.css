@@ -8,14 +8,12 @@ nav p {
   padding-bottom: 4px;
   border: 1px outset pink;
 }
+html{font-family: 'Roboto', sans-serif;}
 
 nav:hover {
   color: black
 }
 
-body {
-  font-family: roboto;
-}
 
 .class1 {
   color: blue;
